@@ -10,7 +10,7 @@ class Heder extends StatelessWidget {
         Row(
           children: [
             const Padding(
-              padding: EdgeInsets.only(left: 20.0, top: 40.0),
+              padding: EdgeInsets.only(left: 20.0, top: 41.0),
               child: CircleAvatar(
                 radius: 40,
                 backgroundImage: AssetImage("images/download.jpg"),
